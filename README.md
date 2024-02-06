@@ -9,5 +9,16 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
 </ul>
+
+<div align="center">
+
+  [![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidyakinIvan&count_private=true&show_icons=true&theme=buefy)](https://github.com/teuchezh)
+
+</div>
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidyakinIvan)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
