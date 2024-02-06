@@ -13,7 +13,7 @@
 
 <div align="center">
 
-  [![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidyakinIvan&count_private=true&show_icons=true&theme=buefy)](https://github.com/teuchezh)
+  [![VidyakinIvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidyakinIvan&count_private=true&show_icons=true&theme=buefy)]([https://github.com/teuchezh](https://github.com/VidyakinIvan))
 
 </div>
 <div align="center">
