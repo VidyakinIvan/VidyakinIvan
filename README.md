@@ -14,12 +14,12 @@
 
 <div align="center">
 
-  [![VidyakinIvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidyakinIvan&count_private=true&show_icons=true&theme=buefy)]([https://github.com/teuchezh](https://github.com/VidyakinIvan))
+  [![VidyakinIvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidyakinIvan&count_private=true&show_icons=true&theme=gruvbox)]([https://github.com/teuchezh](https://github.com/VidyakinIvan))
 
 </div>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidyakinIvan)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidyakinIvan&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
