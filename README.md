@@ -20,11 +20,6 @@
   [![VidyakinIvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidyakinIvan&count_private=true&show_icons=true&theme=gruvbox)]([https://github.com/teuchezh](https://github.com/VidyakinIvan))
 
 </div>
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidyakinIvan&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
 
 <h3 align="center">
   I'm looking forward to the opportunity to chat. Contact me in &nbsp
