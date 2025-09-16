@@ -23,7 +23,7 @@
 
 <h3 align="center">
   I'm looking forward to the opportunity to chat. Contact me in &nbsp
-  <a href="https://t.me/Ivan_Vidyakin" target="_blank">
+  <a href="https://t.me/IvanVidyakinWork" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </h3>
